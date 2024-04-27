@@ -1,6 +1,6 @@
 ---
 created: 2024-04-27T12:25
-updated: 2024-04-27T12:27
+updated: 2024-04-27T12:33
 ---
 
 
@@ -14,3 +14,4 @@ My [website](https://jayfirns.github.io/webserver/)
 
 
 
+ok, now were pushing
